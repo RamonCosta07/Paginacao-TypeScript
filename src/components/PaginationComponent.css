@@ -1,0 +1,17 @@
+.pagination_button{
+    background-color:aliceblue;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.pagination_button:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.page_actual{
+    background-color: gray;
+    color: aliceblue;
+}
